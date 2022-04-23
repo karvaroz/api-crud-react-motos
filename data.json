@@ -37,7 +37,15 @@
             "brand": "AUTECO MOBILITY",
             "year": "2020",
             "price": 4659,
-            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/cux_n6vgtr.jpg",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/SuperSoco_yfop7n.jpg",
+            "id": 5
+        },
+        {
+            "name": "SEGWAY X260",
+            "brand": "AUTECO MOBILITY",
+            "year": "2022",
+            "price": 7901,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650730860/motos/segway_w3pf1e.jpg",
             "id": 5
         }
     ]
