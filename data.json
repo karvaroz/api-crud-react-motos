@@ -47,6 +47,54 @@
             "price": 7901,
             "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650730860/motos/segway_w3pf1e.jpg",
             "id": 6
+        },
+        {
+            "name": "STARKER REACTOR",
+            "brand": "STARKER",
+            "year": "2017",
+            "price": 1430,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/STARKER-REACTOR-_aswjz6.jpg",
+            "id": 7
+        },
+        {
+            "name": "STARKER THUNDER 1500",
+            "brand": "AUTECO MOBILITY",
+            "year": "2020",
+            "price": 2432,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/starker_thunder_mlx2jg.jpg",
+            "id": 8
+        },
+        {
+            "name": "M+ SPORT",
+            "brand": "NIU",
+            "year": "2021",
+            "price": 1758,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/NIU_s0kpnp.jpg",
+            "id": 9
+        },
+        {
+            "name": "SUPER SOCO CUX",
+            "brand": "AUTECO MOBILITY",
+            "year": "2022",
+            "price": 2330,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/cux_n6vgtr.jpg",
+            "id": 10
+        },
+        {
+            "name": "SUPER SOCO TC MAX",
+            "brand": "AUTECO MOBILITY",
+            "year": "2020",
+            "price": 4659,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650677412/motos/SuperSoco_yfop7n.jpg",
+            "id": 11
+        },
+        {
+            "name": "SEGWAY X260",
+            "brand": "AUTECO MOBILITY",
+            "year": "2022",
+            "price": 7901,
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1650730860/motos/segway_w3pf1e.jpg",
+            "id": 12
         }
     ]
 }
